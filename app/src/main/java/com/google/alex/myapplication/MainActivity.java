@@ -12,8 +12,13 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         // 迎接服务器冲突
         int  j = 9;
+
+	    // 测试服务器冲突
+	    int i = 0;
+
     }
 
     @Override
